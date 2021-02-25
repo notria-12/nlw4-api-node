@@ -7,8 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
     "dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts",
-    "typeorm": "ts-node-dev node_module/typeorm/cli.js"
-    
+    "typeorm": "ts-node-dev node_modules/typeorm/cli.js"
   },
   "keywords": [],
   "author": "",
